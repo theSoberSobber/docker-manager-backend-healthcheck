@@ -1,42 +1,42 @@
 [
   {
     "name": "Docker Manager Backend",
-    "url": "https://dm-prod.1110777.xyz/",
+    "url": "https://dm-prod.1110777.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/dm-prod.1110777.xyz.ico",
     "slug": "docker-manager-backend",
-    "status": "down",
-    "uptime": "9.11%",
-    "uptimeDay": "9.11%",
-    "uptimeWeek": "9.11%",
-    "uptimeMonth": "9.11%",
-    "uptimeYear": "9.11%",
-    "time": 953,
-    "timeDay": 953,
-    "timeWeek": 953,
-    "timeMonth": 953,
-    "timeYear": 953,
+    "status": "up",
+    "uptime": "3.04%",
+    "uptimeDay": "3.04%",
+    "uptimeWeek": "3.04%",
+    "uptimeMonth": "3.04%",
+    "uptimeYear": "3.04%",
+    "time": 971,
+    "timeDay": 971,
+    "timeWeek": 971,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 3
     }
   },
   {
     "name": "Docker Manager Backend - Testing",
-    "url": "https://dm-testing.1110777.xyz/",
+    "url": "https://dm-testing.1110777.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/dm-testing.1110777.xyz.ico",
     "slug": "docker-manager-backend-testing",
     "status": "down",
-    "uptime": "13.47%",
-    "uptimeDay": "13.47%",
-    "uptimeWeek": "13.47%",
-    "uptimeMonth": "13.47%",
-    "uptimeYear": "13.47%",
-    "time": 999,
-    "timeDay": 999,
-    "timeWeek": 999,
-    "timeMonth": 999,
-    "timeYear": 999,
+    "uptime": "1.05%",
+    "uptimeDay": "1.05%",
+    "uptimeWeek": "1.05%",
+    "uptimeMonth": "1.05%",
+    "uptimeYear": "1.05%",
+    "time": 952,
+    "timeDay": 952,
+    "timeWeek": 952,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 3
     }
   }
 ]
