@@ -18,10 +18,11 @@ status-website:
   introTitle: "**Docker Manager** is an Android App that allows you to manage your docker installation on remote from your mobile phone!"
   introMessage: This is a status page which monitors prod and testing Docker Manager Backend deployments. Docker Manager backend is used to serve notifications of docker events on your server. Notifications are part of **Docker Manager Pro Plan**. Learn more [here](https://github.com/$OWNER/$REPO).
   navbar:
-    - title: Status
-      href: /
+    - title: Play Store
+      href: https://play.google.com/store/apps/details?id=com.pavit.docker
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+    - title: Status
+      href: /
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
