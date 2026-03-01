@@ -4,9 +4,9 @@ repo: docker-manager-backend-healthcheck # The name of this repository
 
 sites:
   - name: Docker Manager Backend
-    url: https://dm-prod.1110777.xyz/
+    url: https://dm-prod.1110777.xyz/health
   - name: Docker Manager Backend - Testing
-    url: https://dm-testing.1110777.xyz/
+    url: https://dm-testing.1110777.xyz/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
