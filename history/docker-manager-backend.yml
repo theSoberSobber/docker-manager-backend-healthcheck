@@ -1,7 +1,7 @@
 url: https://dm-prod.1110777.xyz/health
-status: down
-code: 530
-responseTime: 86
-lastUpdated: 2026-03-07T06:44:42.801Z
+status: up
+code: 200
+responseTime: 950
+lastUpdated: 2026-03-07T08:00:15.091Z
 startTime: 2026-03-01T07:06:34.936Z
 generator: Upptime <https://github.com/upptime/upptime>
